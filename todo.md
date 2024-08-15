@@ -1,0 +1,1 @@
+Combine rarity list and worth list to make another dictionary with worth, import, add alternate names too.
